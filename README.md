@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Garvit 👋
+
+### BS Data Science @ IIT Madras
+
+I build data-driven applications, ML projects,
+and practical software solutions.
+
+📊 Data Science
+🤖 Machine Learning
+💻 Full-Stack Development
+📈 Analytics
